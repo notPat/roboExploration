@@ -16,7 +16,7 @@ A simulation was developed in Unreal Engine 5 to implement and evaluate two expl
 - Autonomous navigation and waypoint selection
 - Simulated LiDAR sensors using raycasting
 - Spatial partitioning and point cloud aggregation
-- Synchronization of exploration data between robots
+- Synchronization of exploration data between robots at exploration time
 - 3D point cloud visualization
 - Export of simulation data in CSV and XYZ formats
 
@@ -57,7 +57,6 @@ Both algorithms produced comparable results in open environments. The frontier-b
 | C++ | Implementation of simulation functionality |
 | Blueprints | Visual scripting and robot behavior |
 | LiDAR Point Cloud Plugin | Point cloud generation and visualization |
-| Python | Data processing and analysis |
 | Pandas | Data processing |
 | NumPy | Numerical computations |
 | Matplotlib | Data visualization |
