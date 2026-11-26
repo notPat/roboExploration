@@ -58,7 +58,7 @@ The experiments were conducted in two different simulated environments:
 - **Sewer:** A complex underground sewer system
 - **TestTown:** An urban environment with buildings and open areas
 
-Both exploration strategies were tested in each environment using configurations of 3, 5 and 8 robots, resulting in a total of 12 experimental runs.
+Both exploration strategies were tested in each environment using configurations of 3, 5 and 8 robots, for 600 Seconds resulting in a total of 12 experimental runs.
 
 Both algorithms produced comparable results in open environments. The frontier-based approach proved more suitable for complex terrain in these experiments, although both approaches showed limitations in such environments.
 
