@@ -118,7 +118,7 @@ The `explored_sectors_per_second` field is calculated using the recorded sector 
 This repository documents the simulation, experimental methodology and data analysis of the bachelor's thesis.
 
 The complete Unreal Engine project is not included due to its size. The full experimental dataset is approximately 4 GB, and the complete raw point cloud data is not included.
-
+Instead there is example data of two testruns, that can be viewed.
 ## Author
 
 Patrick Bastek  
